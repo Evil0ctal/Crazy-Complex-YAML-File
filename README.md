@@ -1,4 +1,4 @@
-# Crazy-Shit-YAML-File-DONT-OPEN
+# Crazy-Complex-YAML-File
 The ultimate complex YAML file in the human world, used to test the accuracy of YAML file interpreters.
 
 ## Do not use your human brain to read the following document to prevent overloading the brain.
