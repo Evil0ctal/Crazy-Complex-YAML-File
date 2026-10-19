@@ -204,6 +204,13 @@ ultimate_complexity:
       - true
       - null
       - { nested_dict: "With a string", and_an_array: [1, 2, 3] }
+  steps:
+    -
+      name: Test empty single dash above.
+      uses: nothing
+    -
+      name: Test empty single dash above
+      uses: something
 
 ###@~ 注意: 
 ####$// 这个 YAML 文件是为了展:"..//#示 YAML }
